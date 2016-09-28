@@ -1,1 +1,5 @@
-C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\FloorPlatformAsm-Test Analysis
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\Simulation\FloorPlatformAsm-Test Analysis
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\Simulation\FloorPlatformAsm-Test Analysis
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\Simulation\FloorPlatformAsm-Test Analysis
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\Simulation\FloorPlatformAsm-Test Analysis
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Daniil-SolidWorks\Simulation\FloorPlatformAsm-Test Analysis
