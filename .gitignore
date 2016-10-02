@@ -215,8 +215,13 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+<<<<<<< HEAD
+*.BD2
+*.BDF
+*.CWR
+*.DSP
+*.GEN
+=======
+>>>>>>> refs/remotes/origin/master
 PerformanceLog.txt
-FrameActuatorAssemb-Static 1.CWR
-fort.12
-AcutationAssemblyWithBase-Static 1.CWR
-X.BAT
+*.BAT
