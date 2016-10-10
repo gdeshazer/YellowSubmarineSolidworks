@@ -215,3 +215,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+<<<<<<< HEAD
+*.BD2
+*.BDF
+*.CWR
+*.DSP
+*.GEN
+=======
+>>>>>>> refs/remotes/origin/master
