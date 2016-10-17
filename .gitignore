@@ -225,3 +225,5 @@ pip-log.txt
 >>>>>>> refs/remotes/origin/master
 PerformanceLog.txt
 *.BAT
+*.MAS
+
