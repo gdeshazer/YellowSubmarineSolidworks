@@ -2,3 +2,13 @@ C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-TestSim
