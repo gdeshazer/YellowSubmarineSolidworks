@@ -28,3 +28,5 @@ c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatfo
 c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
 c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
 c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
