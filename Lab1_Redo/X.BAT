@@ -20,3 +20,11 @@ C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
+c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatformAsm-Freq-1
