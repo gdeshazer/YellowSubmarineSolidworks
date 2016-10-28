@@ -256,3 +256,8 @@ PerformanceLog.txt
 *.PCS
 *.STE
 *.EFF
+*.EIG
+Revision 3/FloorPlatformAsm-Frequency 1.LCM
+*.MSF
+*.VMW
+Revision 3/FloorPlatformAsm-Frequency 1.SY1
