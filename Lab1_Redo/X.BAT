@@ -33,3 +33,6 @@ c:\scratch\dt\yellowsubmarinesolidworks\daniil-solidworks\simulation\FloorPlatfo
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
 C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
+C:\Users\Daniil\Documents\GitHub\YellowSubmarineSolidworks\Lab1_Redo\Simulation\FloorPlatformAsm-Freq-1
