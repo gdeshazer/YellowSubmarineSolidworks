@@ -21,9 +21,15 @@ function FatiguePoints()
     THRC = 600; % [persons] Theoretical Hourly Capacity
     ride_duration = 6; % [min] Average ride duration
     
-    t_tot = 3.154E8; % [s] 10 years in seconds
-    % Spacing results in ~2.43 day intervals
-    t1 = linspace(0, t_tot, 3000); % [s] Max SW allowable X/Y Pairs
+    t_10 = 3.154E8; % [s] 10 years in seconds
+    
+    % Nyquist Sampling Theorem: fs >= 2*fc
+    % Will use 10 points per cycle for accuracy
+    ns = 10;
+    ts_hcf = ((2*pi)/w)/ns;
+    t_hcf = 5000 * ts_hcf;  % [s] Total time for 5,000 SW points
+    
+    t1 = linspace(0, t_hcf, 5000); % [s] Max SW allowable X/Y Pairs
     y1 = f_motion(t1);
     
     % Plot only 2 periods
@@ -49,7 +55,7 @@ function FatiguePoints()
     m = 3600; % [kg] Mass of interest
     wn = sqrt(k/m); % [rad/s] Natural frequency (undamped system)
     
-    t2 = linspace(0, 10, 1000); % [s] 0 to 10 seconds per seismic event
+    t2 = linspace(0, 10, 100); % [s] 0 to 10 seconds per seismic event
     
     a_seismic = @(t) (3 - exp(-wn.*t).*(1+wn.*t))*g;
     
