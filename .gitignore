@@ -261,3 +261,7 @@ Revision 3/FloorPlatformAsm-Frequency 1.LCM
 *.MSF
 *.VMW
 Revision 3/FloorPlatformAsm-Frequency 1.SY1
+*.DP3
+*.PCG
+*.hdr
+*.CWR
