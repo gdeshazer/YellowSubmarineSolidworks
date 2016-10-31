@@ -1,0 +1,23 @@
+Determine floor landing via dead load only (no people) 25k
+
+25k -> 53 psf -> 471 ft^2
+
+@home for horizontalsection +0.5m BB
+
+
+
+Ideas:
+4 post superstructure
+air bearings
+
+1: 6 short answer (20 pts)
+	- K's
+	
+2: 8 part problem
+	- FBD (starts)
+	- FoS (ends)
+	- Combined Loading Problem
+	- Singularity Equations 
+	- Stress Cubes
+
+   Regular combined loading 'lever'
