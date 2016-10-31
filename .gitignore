@@ -273,3 +273,5 @@ Revision 5/FloorPlatformAsm-Fatigue 1.FTR
 *.SFA
 *.FTC
 Revision 5/FloorPlatformAsm-TestSim.ELM
+*.MSG
+*.FTR
