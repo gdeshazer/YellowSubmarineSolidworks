@@ -65,11 +65,11 @@ function [t,y]=FatiguePoints()
     y2 = a_seismic(t2);
     
     % Plot seismic graph
-%     plot(t2, y2, 'LineWidth', 1.5, 'Color', 'r');
-%     title('LCF Failure Mode Effects Loading (Seismic Plot)');
-%     xlabel('Time (s)');
-%     ylabel('Acceleration (m/s^2)');
-%     grid on;
+    plot(t2, y2, 'LineWidth', 1.5, 'Color', 'r');
+    title('LCF Failure Mode Effects Loading (Seismic Plot)');
+    xlabel('Time (s)');
+    ylabel('Acceleration (m/s^2)');
+    grid on;
 
     % Save all x/y pairs
     save('seismic_pts.mat', 't2', 'y2', '-mat');
