@@ -1,3 +1,0 @@
-Find Nyquist Frequency
-
-5,000 points, lowest possible number of points per sine wave to prevent aliasing (loss of data over interval). 
