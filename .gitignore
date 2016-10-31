@@ -266,3 +266,8 @@ Revision 3/FloorPlatformAsm-Frequency 1.SY1
 *.hdr
 *.CWR
 *.SY1
+*.FLH
+Revision 5/FloorPlatformAsm-Fatigue 1.FTC
+*.FTD
+Revision 5/FloorPlatformAsm-Fatigue 1.FTR
+*.SFA
