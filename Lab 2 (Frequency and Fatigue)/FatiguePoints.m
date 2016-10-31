@@ -13,7 +13,7 @@ function FatiguePoints()
     
     w = 1/pi; % [rad/s] Forcing frequency
     W = 25000; % [lbf] Dead load only
-    f_motion = @(t) 1*sin(w.*t)*W;
+    f_motion = @(t) 1*sin(w.*t);%*W;
     
     % Completed system will operate a minimum of 12 hours per day,
     % 365 days per year with approx. 10 rides per hour. 
@@ -45,6 +45,8 @@ function FatiguePoints()
     
     % Save all x/y pairs
     save('showop_pts.mat', 't1', 'y1', '-mat');
+     
+    Curve_1 = [t1' y1'];
     
     %% Part 2: Failure Mode Effects Loading / Seismic (LCF)
     % An impact event (e.g. actuator fails and floor platform hits ground)
