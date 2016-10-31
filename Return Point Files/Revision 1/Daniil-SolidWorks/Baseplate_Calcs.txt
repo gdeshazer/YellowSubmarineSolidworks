@@ -1,0 +1,10 @@
+25,000 lbf / (4.97597222 * 4)  = 1256.036 psf
+
+25k lbf / (x * 4) = 53 psf
+
+x = 117.9245 ft^2
+
+
+Floor Platform Area: 44.5816 m^2 = 479.87235 ft^2
+
+NEED: 10.863 ft^2 base plates x4 
